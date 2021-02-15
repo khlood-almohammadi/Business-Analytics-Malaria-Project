@@ -6,11 +6,16 @@ This project is aimed at analysis using data visualization in Tableau , As A lar
 # This project has covered the below content:
 
 A - What is the average number of deaths caused by the malaria epidemic?
+
 B - Which countries are most affected by the malaria epidemic?
+
 C - What about Democratic Republic of the Congo?
+
 D - Anything special in South Africa?
+
 E - Which countries are more affected after 2010?
-F - Conclusions
+
+F - Conclusions.
 
 
 
