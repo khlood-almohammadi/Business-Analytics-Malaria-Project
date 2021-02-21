@@ -17,7 +17,7 @@ E - Which countries are more affected after 2010?
 
 F - Conclusions.
 
-...
+
 
 # The Software and tools have used:
 
