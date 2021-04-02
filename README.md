@@ -3,8 +3,6 @@ This project is aimed at analysis using data visualization in Tableau , As A lar
 
 
 
-
-
 # This project has covered the below content:
 
 A - What is the average number of deaths caused by the malaria epidemic?
